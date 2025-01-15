@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "New Travel Dashboard (1)"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "d6bcd513-6a72-481d-8362-63690b67ba9b"
+  }
+}
