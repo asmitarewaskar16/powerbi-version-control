@@ -20459,6 +20459,11 @@
             "value": "Navigation"
           }
         ],
+        "changedProperties": [
+          {
+            "property": "IsHidden"
+          }
+        ],
         "columns": [
           {
             "name": "DateTime",
@@ -20466,6 +20471,11 @@
               {
                 "name": "SummarizationSetBy",
                 "value": "Automatic"
+              }
+            ],
+            "changedProperties": [
+              {
+                "property": "IsHidden"
               }
             ],
             "dataType": "string",
@@ -20483,6 +20493,11 @@
               {
                 "name": "UnderlyingDateTimeDataType",
                 "value": "Date"
+              }
+            ],
+            "changedProperties": [
+              {
+                "property": "IsHidden"
               }
             ],
             "dataType": "dateTime",
@@ -20512,6 +20527,11 @@
               {
                 "name": "UnderlyingDateTimeDataType",
                 "value": "Time"
+              }
+            ],
+            "changedProperties": [
+              {
+                "property": "IsHidden"
               }
             ],
             "dataType": "dateTime",
